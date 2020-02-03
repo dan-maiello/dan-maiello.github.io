@@ -8,5 +8,5 @@ h2 {
 #nav-table { width: 800px;}
 #nav-th { width: 200px; text-align:center;}
 div.a {
-  width: 800px; text-align: left;
+  style="width: 800px;" text-align: left;
 }
